@@ -6,7 +6,7 @@ rgb2map
 
 --------
 
-[```rgb2map```](https://github.com/horchler/rgb2map/blob/master/rgb2map.m) converts an RGB image or colormap to an indexed color image or colormap using color differences. ```rgb2map``` calculates the color difference between each RGB pixel in an input image and every RGB triplet in the input colormap by [calculating ?E](http://en.wikipedia.org/wiki/Color_difference#Delta_E) in the [CIE L*a*b*](http://en.wikipedia.org/wiki/Lab_color_space) color space ([CIE 1976](http://en.wikipedia.org/wiki/Color_difference#CIE76) standard). The ```min``` function is used to find the index of the minimum ?E (if more than one minimum value exists, the index of the first is returned). The function is an alternative to Matlab's [```rgb2ind```].  
+[```rgb2map```](https://github.com/horchler/rgb2map/blob/master/rgb2map.m) converts an RGB image or colormap to an indexed color image or colormap using color differences. ```rgb2map``` calculates the color difference between each RGB pixel in an input image and every RGB triplet in the input colormap by [calculating &Delta;E](http://en.wikipedia.org/wiki/Color_difference#Delta_E) in the [CIE L*a*b*](http://en.wikipedia.org/wiki/Lab_color_space) color space ([CIE 1976](http://en.wikipedia.org/wiki/Color_difference#CIE76) standard). The ```min``` function is used to find the index of the minimum &Delta;E (if more than one minimum value exists, the index of the first is returned). The function is an alternative to Matlab's [```rgb2ind```](http://www.mathworks.com/help/matlab/ref/rgb2ind.html).  
 &nbsp;  
 
 --------
