@@ -34,6 +34,8 @@ function ind=rgb2map(varargin)
 %   See also COLORMAP, IND2RGB, RGB2IND, RGB2LAB, MAKECFORM, APPLYCFORM,
 %            LAB2DOUBLE.
 
+%   See: http://stackoverflow.com/a/30062029/2278029
+
 %   Andrew D. Horchler, adh9 @ case . edu, Created 5-2-15
 %   Revision: 1.1, 6-20-15
 
