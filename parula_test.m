@@ -7,7 +7,7 @@ function parula_test
 
 n = 256;
 v = 1:n;
-map = [0 0 0;parula(n-2);1 1 1];
+map = [0 0 0;parula(n-2);1 1 1];    % Force black and white
 %map = parula(n);
 
 figure('Color','w');
