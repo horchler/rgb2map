@@ -1,7 +1,7 @@
 function parula_test
 %PARULA_TEST  Test and compare RGB2MAP and RGB2IND with Parula colormap.
 
-%   Andrew D. Horchler, adh9 @ case . edu, Created 5-2-15
+%   Andrew D. Horchler, horchler @ gmail . com, Created 5-2-15
 %   Revision: 1.0, 5-5-15
 
 

@@ -14,10 +14,10 @@ function ind=rgb2parula(r,g,b)
 %   IND = RGB2PARULA(R,G,B) converts the RGB image with equal size arrays R, G,
 %   and B to an indexed PARULA image IND (same size as R, G, and B).
 %   
-%   Class support:
-%       
-%
 %   See also PARULA, COLORMAP, IND2RGB, RGB2LAB.
+
+%   Andrew D. Horchler, horchler @ gmail . com, Created 5-2-15
+%   Revision: 1.0, 2-21-17
 
 
 % Validate inputs, size and allocate output

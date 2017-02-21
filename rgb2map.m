@@ -36,7 +36,7 @@ function ind=rgb2map(varargin)
 
 %   See: http://stackoverflow.com/a/30062029/2278029
 
-%   Andrew D. Horchler, adh9 @ case . edu, Created 5-2-15
+%   Andrew D. Horchler, horchler @ gmail . com, Created 5-2-15
 %   Revision: 1.1, 6-20-15
 
 
