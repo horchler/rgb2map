@@ -1,8 +1,8 @@
 rgb2map
 ========
-#####Convert RGB colors to indexed colormap colors in Matlab.#####
-######Version 1.1, 6-20-15######
-#####Download Repository: [ZIP Archive](https://github.com/horchler/rgb2map/archive/master.zip)#####
+##### Convert RGB colors to indexed colormap colors in Matlab.
+###### Version 1.1, 6-20-15
+##### Download Repository: [ZIP Archive](https://github.com/horchler/rgb2map/archive/master.zip)
 
 --------
 
